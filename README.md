@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center"> Hi 👋, I'm Arun </h1>
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 <hr>
@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on Angular Projecr
 
 
-- 📫 Reach me at: **surakshakumari.bcsf18@iba-suk.edu.pk**
+- 📫 Reach me at: **Arun@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/suraksha-kumari-0698b8211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arun" height="30" width="40" /></a>
+<a href="." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arun" height="30" width="40" /></a>
 </p>
   </div>
 
