@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on Angular Projecr
 
 
-- 📫 Reach me at: **Arun@gmail.com**
+- 📫 Reach me at: **kumar319@sheridancollege.ca**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arun" height="30" width="40" /></a>
+<a href="linkedin.com/in/arun-kumar-578a9024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arun" height="30" width="40" /></a>
 </p>
   </div>
 
