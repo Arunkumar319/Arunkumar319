@@ -3,7 +3,7 @@
 <h3 align="center">I am highly motivated and energetic Computer Science graduate who believes in learning. I can effortlessly and rather skillfully solve real-life problems and apply techniques from various disciplines to development.</h3>
 <hr>
 <div align="center">
-- 🔭 I’m currently working on Angular Projecr
+- 🔭 I’m currently working on Angular Project
 
 
 - 📫 Reach me at: **kumar319@sheridancollege.ca**
